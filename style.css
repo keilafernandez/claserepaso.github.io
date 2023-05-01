@@ -1,0 +1,56 @@
+/* Fondo */
+
+body{
+    background-color: #d8f3dc;
+}
+
+/*Tamaño y negrita de dia*/
+
+.dia{
+    font-size: 1.2em;
+    font-weight: bold;
+}
+
+/* Colores por dia */
+
+.lunes{
+    color:#2c614b ;
+}
+
+.martes{
+    color: #2d6a4f;
+}
+
+.miercoles{
+    color: #40916c;
+}
+
+.jueves{
+    color: #52b788;
+}
+
+.viernes{
+    color: #74c69d;
+}
+
+.sabado{
+    color: #95d5b2;
+}
+
+.domingo{
+    color: #b7e4c7;
+}
+
+/*Cursiva para los horarios */
+
+.hora{
+    font-style: italic;
+}
+
+/*Fondo de los horarios*/
+
+.horarios{
+    color: #081c15;
+    font-size: 1.1em;
+    background-color: #f2fff4;
+}
